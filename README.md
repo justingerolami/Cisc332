@@ -1,2 +1,2 @@
-# Cisc332
-Final project for Cisc 332 Database Management. Build a website called Queens B&B which models Air B&B
+# CISC332 Database Management Final Project
+The task for the final project was to develop a front and backend website which resembles AirB&B. 
